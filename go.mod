@@ -1,4 +1,4 @@
-module github.com/inherelab/go_pkg_template
+module github.com/inhere/pmx
 
 go 1.18
 
